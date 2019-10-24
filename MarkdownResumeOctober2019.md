@@ -158,6 +158,5 @@ DATES: FEBRUARY 2019 – AUGUST 2019
 - Completed 'How to Think like a Programmer with Python' course on
     Udemy
 
-#### .
 
 
